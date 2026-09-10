@@ -1,0 +1,11 @@
+{
+  "version": "0.12.6",
+  "win": {
+    "file": "XFXConsole_0.12.6.aex",
+    "md5": "e09969db5c252b03e2c06e1a73c36a5e"
+  },
+  "mac": {
+    "file": "XFXConsole_0.12.6.zip",
+    "md5": "ec29b889251d3c1118db9895117058ce"
+  }
+}
